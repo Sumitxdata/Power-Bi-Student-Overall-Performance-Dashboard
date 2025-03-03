@@ -9,4 +9,4 @@ Analyzed the student performance data and created an interactive dashboard using
  - Used different data types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, line chart)
 
 ## Dashboard Picture:
-https://github.com/Sumitxdata/Power-Bi-Student-Overall-Performance-Dashboard/blob/74d3ead1c0cb1534eef54f74b283cd5b7aa5c743/Student%20Overall%20Performance%20Dashboard.png
+![image alt](https://github.com/Sumitxdata/Power-Bi-Student-Overall-Performance-Dashboard/blob/74d3ead1c0cb1534eef54f74b283cd5b7aa5c743/Student%20Overall%20Performance%20Dashboard.png)
