@@ -9,4 +9,3 @@ Analyzed the student performance data and created an interactive dashboard using
  - Used different data types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, line chart)
 
 ## Dashboard Picture:
-<img src = "Student Overall Performance Dashboard.png">
